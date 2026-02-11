@@ -8,16 +8,15 @@
 
 <p align="center">
   <a href="https://discord.gg/wzkir">
-    <img src="https://img.shields.io/badge/Discord-Wzkir-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
+    <img src="https://img.shields.io/badge/Discord-Wzkir-1e1f22?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=1e1f22" />
   </a><a href="https://instagram.com/qv60">
-    <img src="https://img.shields.io/badge/Instagram-@qv60-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-@qv60-1e1f22?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=1e1f22" />
   </a><a href="https://youtube.com/@جقء">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" />
+    <img src="https://img.shields.io/badge/YouTube-Channel-1e1f22?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=1e1f22" />
   </a><a href="https://elhattab.lol">
-    <img src="https://img.shields.io/badge/Website-elhattab.lol-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=8A2BE2" />
+    <img src="https://img.shields.io/badge/Website-elhattab.lol-1e1f22?style=for-the-badge&logo=google-chrome&logoColor=8A2BE2&labelColor=1e1f22" />
   </a>
 </p>
-
 
 
 
