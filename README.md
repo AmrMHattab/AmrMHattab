@@ -1,7 +1,14 @@
 <h1 align="center">Hi, I'm Amr M Hattab 👋</h1>
-<h3 align="center"> Cybersecurity Undergraduate 💻 | Founder of 
-  <a href="https://discord.gg/oura" target="_blank">Wzkir</a> https://j.top4top.io/p_3694x9unp1.png
+
+<h3 align="center">
+  Cybersecurity Undergraduate 💻 | Founder of 
+  <a href="https://discord.gg/oura" target="_blank">Wzkir</a>
 </h3>
+
+<p align="center">
+  <img src="https://j.top4top.io/p_3694x9unp1.png" alt="Banner Image" width="600"/>
+</p>
+
 
 <p align="center">
   <a href="https://discord.gg/wzkir"><img src="https://img.shields.io/badge/Óura-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
