@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Amr M Hattab 👋</h1>
 
-<h3 align="center">
+<p align="center">
   Cybersecurity Undergraduate 💻
-</h3>
+</p>
 
 <br>
 
