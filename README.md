@@ -6,7 +6,7 @@
   <img src="https://j.top4top.io/p_3694x9unp1.png" 
        alt="Wzkir Logo" 
        width="25" 
-       style="vertical-align: -4px; margin-left: 6px;" />
+       style="vertical-align: -8px; margin-left: 6px;" />
 </h3>
 
 <p align="center">
