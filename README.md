@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amr Hattab 👋</h1>
+<h1 align="center">Hi, I'm Amr M Hattab 👋</h1>
 <h3 align="center"> Cybersecurity Undergraduate 💻 | Founder of 
   <a href="https://discord.gg/oura" target="_blank">Wzkir</a> https://j.top4top.io/p_3694x9unp1.png
 </h3>
