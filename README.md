@@ -3,11 +3,13 @@
 <h3 align="center">
   Cybersecurity Undergraduate 💻 | Founder of 
   <a href="https://discord.gg/oura" target="_blank">Wzkir</a>
-  <img src="https://j.top4top.io/p_3694x9unp1.png"
-       alt="Wzkir Logo"
-       width="25"
-       align="absmiddle"/>
+  <sup>
+    <img src="https://j.top4top.io/p_3694x9unp1.png"
+         alt="Wzkir Logo"
+         width="25"/>
+  </sup>
 </h3>
+
 
 <p align="center">
   <a href="https://discord.gg/wzkir"><img src="https://img.shields.io/badge/Óura-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
