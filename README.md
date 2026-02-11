@@ -1,5 +1,5 @@
 <p align="center">
-  Cybersecurity Undergraduate 💻
+  Cybersecurity Undergraduate
 </p>
 
 ---
