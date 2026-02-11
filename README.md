@@ -19,16 +19,4 @@
   <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,nodejs,express,react,nextjs,html,css,tailwind,php,mysql,mongodb,git,linux" alt="Languages & Tools"/>
 </p>
 
----
-
-## 🌐 My Latest Work
-- [Profile](https://elhattab.lol)
-
----
-<p align="center">
-  <a href="https://github.com/AmrMHattab">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmrMHattab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700" alt="GitHub Stats"/>
-  </a>
-</p>
-
----
+![image](https://github.com/Dymidless/README.md/blob/main/dino.gif)
