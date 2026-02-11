@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Amr M Hattab 👋</h1>
 
-<p align="center">
+<h3 align="center">
   Cybersecurity Undergraduate 💻
-</p>
+</h3>
 
 <br>
 
@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Website-elhattab.lol-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111" />
   </a>
 </p>
+
 
 
 ---
