@@ -15,7 +15,7 @@
 
 ### 🧠 Some Tools I Use 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,nodejs,express,react,nextjs,html,css,tailwind,php,laravel,mysql,mongodb,redis,nginx,docker,git,github,vscode,postman,linux" alt="Languages & Tools"/>
+  <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,nodejs,express,react,nextjs,html,css,tailwind,php,mysql,mongodb,git,linux" alt="Languages & Tools"/>
 </p>
 
 ---
