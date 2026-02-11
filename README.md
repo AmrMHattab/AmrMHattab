@@ -10,15 +10,12 @@
   <a href="https://discord.gg/wzkir">
     <img src="https://img.shields.io/badge/Join%20Wzkir-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1f22" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/qv60">
     <img src="https://img.shields.io/badge/Instagram-@qv60-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://youtube.com/@جقء">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=111111" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://elhattab.lol">
     <img src="https://img.shields.io/badge/Website-elhattab.lol-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111" />
   </a>
