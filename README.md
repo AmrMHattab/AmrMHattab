@@ -1,9 +1,3 @@
-<p align="center">
-  Cybersecurity Undergraduate
-</p>
-
----
-
 ![image](https://github.com/Dymidless/README.md/blob/main/dino.gif)
 
 ---
