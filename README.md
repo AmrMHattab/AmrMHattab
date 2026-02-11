@@ -10,11 +10,6 @@
   <a href="https://elhattab.lol"><img src="https://img.shields.io/badge/elhattab.lol-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/wzkir" target="_blank">
-    <img src="https://img.shields.io/badge/Join-%20VIP%20Community-%23FFD700?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=FFD700"/>
-  </a>
-</p>
 
 ---
 
