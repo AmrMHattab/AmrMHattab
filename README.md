@@ -1,7 +1,15 @@
 ## About Me
 
 ```ts
-const hattab = { name: "Amr M. Hattab", role: ["Senior Full-Stack Architect", "Artificial Intelligence Engineer"], location: "Palestine :flag_ps:", passion: "Building random ideas & experimentin g with high-performance tech", currentFocus: "Scalable infrastructure, full-stack development & overengineering personal projects", hobbies: ["Artificial Intelligence", "Full-Stack Development", "Coding for fun"], Fact: "I code mostly because I genuinely enjoy the process, not just for clients.", };
+const hattab = {
+  name:           "Amr M. Hattab",
+  role:           ["Senior Full-Stack Architect", "Cybersecurity Student"],
+  location:       "Palestine :flag_ps:",
+  passion:        "Building random ideas & experimenting with high-performance tech",
+  currentFocus:   "Scalable infrastructure, security auditing & overengineering personal projects",
+  hobbies:        ["Cybersecurity Research", "System Architecture", "Coding for fun"],
+  Fact:           "I code mostly because I genuinely enjoy the process, not just for clients.",
+};
 ```
 
 ---
