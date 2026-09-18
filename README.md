@@ -7,7 +7,7 @@ const hattab = {
   location:       "Palestine :flag_ps:",
   passion:        "Building random ideas & experimenting with high-performance tech",
   currentFocus:   "Scalable infrastructure, security auditing & overengineering personal projects",
-  hobbies:        ["Artificial Intelligence", "System Architecture", "Full-Stack Development"],
+  hobbies:        "Artificial Intelligence", "System Architecture", "Full-Stack Development",
   Fact:           "I code mostly because I genuinely enjoy the process, not just for clients.",
 };
 ```
